@@ -63,9 +63,9 @@ Docker · PostgreSQL · sqlc · pgx · Git / GitHub
 
 <div align="center">
 
-![Alioune's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justarkov7-coder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&rank_icon=github)
+![Alioune's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justarkov7-coder&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justarkov7-coder&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justarkov7-coder&layout=compact&theme=github_dark&hide_border=true&count_private=true)
 
 </div>
 
