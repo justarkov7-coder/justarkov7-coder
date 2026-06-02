@@ -64,11 +64,11 @@ I'm comfortable across the full stack — writing Go microservices, automating i
 
 ---
 
-## Currently working on
+## Featured project
 
-- Improving `multi-stack-vps-deployer` with more stack support and docs
-- Deepening Go concurrency patterns and distributed systems design
-- Building cleaner CLI tooling in Bash and Python
+### 🛠 [multi-stack-vps-deployer](https://github.com/justarkov7-coder/multi-stack-vps-deployer)
+> Automated VPS deployment tool supporting multiple technology stacks.
+> Built for engineers who want reproducible, scriptable server setups without the overhead of Kubernetes.
 
 ---
 
@@ -76,7 +76,7 @@ I'm comfortable across the full stack — writing Go microservices, automating i
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliounesalldev777/)
+[![LinkedIn](https://www.linkedin.com/in/aliounesalldev777/)
 
 </div>
 
