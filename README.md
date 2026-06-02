@@ -64,14 +64,6 @@ I'm comfortable across the full stack — writing Go microservices, automating i
 
 ---
 
-## Featured project
-
-### 🛠 [multi-stack-vps-deployer](https://github.com/justarkov7-coder/multi-stack-vps-deployer)
-> Automated VPS deployment tool supporting multiple technology stacks.
-> Built for engineers who want reproducible, scriptable server setups without the overhead of Kubernetes.
-
----
-
 ## Get in touch
 
 <div align="center">
