@@ -90,7 +90,7 @@ I'm comfortable across the full stack — writing Go microservices, automating i
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/aliounesalldev777/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliounesalldev777/)
 
 </div>
 
