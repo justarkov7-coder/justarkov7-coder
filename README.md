@@ -22,25 +22,32 @@ I'm comfortable across the full stack — writing Go microservices, automating i
 ## Stack
 
 **Languages**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,ts,js,bash&theme=dark" />
 </p>
 
 **Backend**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,django,flask&theme=dark" />
 </p>
-<p align="center">
-  ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
-  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)
-</p>
+
+<div align="center">
+
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)
+
+</div>
 
 **Frontend**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 </p>
 
 **Infrastructure & DB**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,postgres,linux,git&theme=dark" />
 </p>
